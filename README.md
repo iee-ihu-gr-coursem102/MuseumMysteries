@@ -4,21 +4,12 @@
 
 | Όνομα | GitHub | ΑΜ |
 |---|---|---|
-
-| Ελένη Τσότσου | [@elenitsotsou](https://github.com/elenitsotsou) | 32/2026
-| Αργυρώ Παπαστεργίου| [@PapastergiouA](https://github.com/PapastergiouA) | 25/2026
-| Αγγελική |  [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026
-| Κατερίνα | [@aikaterinikoutouvou](https://github.com/aikaterinikoutouvou) | 15/2026
-| Δήμητρα | [@Dkritsimi](https://github.com/Dkritsimi) | 16/2026 
-| Ευσταθία | [@Emakra](https://github.com/Emakra) | 18/2026
-
 | Ελένη Τσότσου | [@elenitsotsou](https://github.com/elenitsotsou) | 32/2026 |
 | Αργυρώ Παπαστεργίου | [@PapastergiouA](https://github.com/PapastergiouA) | 25/2026 |
 | Αγγελική | [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026 |
 | Κατερίνα | [@aikaterinikoutouvou](https://github.com/aikaterinikoutouvou) | 15/2026 |
 | Δήμητρα | [@Dkritsimi](https://github.com/Dkritsimi) | 16/2026 |
 | Ευσταθία | [@Emakra](https://github.com/Emakra) | 18/2026 |
-1039b238f2bd4b8a277a0620244267cc9b308feb
 
 ## Ρόλοι ομάδας (Scrum)
 
@@ -34,3 +25,4 @@
 | Αγγελική | UX & εμφάνιση | UX Designer, Frontend Developer |
 | Δήμητρα | Κοινότητα & REST API | Backend Developer |
 | Ευσταθία | Χρήστες & τάξεις | Developer |
+
