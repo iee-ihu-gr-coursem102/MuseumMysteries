@@ -25,4 +25,3 @@
 | Αγγελική | UX & εμφάνιση | UX Designer, Frontend Developer |
 | Δήμητρα | Κοινότητα & REST API | Backend Developer |
 | Ευσταθία | Χρήστες & τάξεις | Developer |
-
