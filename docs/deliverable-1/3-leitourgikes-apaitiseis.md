@@ -6,7 +6,7 @@
 | Υποσύστημα | Κωδικός | Υπεύθυνη | Πλήθος | Αρχείο |
 |---|---|---|---|---|
 | 1. Χρήστες & ομάδες | ΧΡ | Ευσταθία Μακράκη | – | _σε εξέλιξη_ |
-| 2. Europeana & αντικείμενα | ΑΝ | Κατερίνα Κουτουβού | – | _σε εξέλιξη (PR #8)_ |
+| 2. Europeana & αντικείμενα | ΑΝ | Κατερίνα Κουτουβού | – | [2-europeana-antikeimena.md](../requirements/2-europeana-antikeimena.md) |
 | 3. Editor σεναρίων | ΕΔ | Αργυρώ Παπαστεργίου | – | _σε εξέλιξη (PR #6)_ |
 | 4. Game engine | ΠΑ | Ελένη Τσότσου | 22 | [4-game-engine.md](../requirements/4-game-engine.md) |
 | 5. Κοινότητα & REST API | ΚΟ | Δήμητρα Κριτσίμη | 18 | [5-koinotita-api.md](../requirements/5-koinotita-api.md) |
