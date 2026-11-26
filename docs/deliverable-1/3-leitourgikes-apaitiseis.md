@@ -7,7 +7,7 @@
 |---|---|---|---|---|
 | 1. Χρήστες & ομάδες | ΧΡ | Ευσταθία Μακράκη | – | _σε εξέλιξη_ |
 | 2. Europeana & αντικείμενα | ΑΝ | Κατερίνα Κουτουβού | – | [2-europeana-antikeimena.md](../requirements/2-europeana-antikeimena.md) |
-| 3. Editor σεναρίων | ΕΔ | Αργυρώ Παπαστεργίου | – | [3-editor-senarion.md](../requirements/3-editor-senarion.md) |
+| 3. Editor σεναρίων | ΕΔ | Αργυρώ Παπαστεργίου | 24 | [3-editor-senarion.md](../requirements/3-editor-senarion.md) |
 | 4. Game engine | ΠΑ | Ελένη Τσότσου | 22 | [4-game-engine.md](../requirements/4-game-engine.md) |
 | 5. Κοινότητα & REST API | ΚΟ | Δήμητρα Κριτσίμη | 18 | [5-koinotita-api.md](../requirements/5-koinotita-api.md) |
 | 6. UX & εμφάνιση | UX | Αγγελική Μανώλα | – | _σε εξέλιξη_ |
