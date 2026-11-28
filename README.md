@@ -34,8 +34,8 @@
 |---|---|---|
 | Ελένη Τσότσου | [@elenitsotsou](https://github.com/elenitsotsou) | 32/2026 |
 | Αργυρώ Παπαστεργίου | [@PapastergiouA](https://github.com/PapastergiouA) | 25/2026 |
-| Αγγελική Μανώλα| [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026 |
-| Κατερίνα Κουτούβου | [@aikaterinikoutouvou](https://github.com/aikaterinikoutouvou) | 15/2026 |
+| Αγγελική Μανώλα | [@aggelikiman1](https://github.com/aggelikiman1) | 19/2026 |
+| Κατερίνα Κουτουβού | [@aikaterinikoutouvou](https://github.com/aikaterinikoutouvou) | 15/2026 |
 | Δήμητρα Κριτσίμη | [@Dkritsimi](https://github.com/Dkritsimi) | 16/2026 |
 | Ευσταθία Μακράκη | [@Emakra](https://github.com/Emakra) | 18/2026 |
 
@@ -51,12 +51,12 @@
 
 | # | Υποσύστημα | Υπεύθυνη | Κωδικός απαιτήσεων |
 |---|---|---|---|
-| 1 | Χρήστες & ομάδες | Ευσταθία | ΧΡ |
-| 2 | Europeana & αντικείμενα, Βάση δεδομένων | Κατερίνα Κουτούβου | ΑΝ |
+| 1 | Χρήστες & ομάδες | Ευσταθία Μακράκη | ΧΡ |
+| 2 | Europeana & αντικείμενα, Βάση δεδομένων | Κατερίνα Κουτουβού | ΑΝ |
 | 3 | Editor σεναρίων | Αργυρώ Παπαστεργίου | ΕΔ |
 | 4 | Game engine, Deployment | Ελένη Τσότσου | ΠΑ |
 | 5 | Κοινότητα & REST API | Δήμητρα Κριτσίμη | ΚΟ |
-| 6 | UX & εμφάνιση | Αγγελική | UX |
+| 6 | UX & εμφάνιση | Αγγελική Μανώλα | ΕΜ |
 
 ## Sprints
 
