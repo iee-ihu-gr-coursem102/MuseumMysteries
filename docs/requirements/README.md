@@ -8,7 +8,7 @@
 
 | Υποσύστημα | Αρχείο | Κωδικός |
 |---|---|---|
-| 1. Χρήστες & τάξεις | `1-xristes-takseis.md` | ΧΡ |
+| 1. Χρήστες & ομάδες | `1-xristes-omades.md` | ΧΡ |
 | 2. Europeana & αντικείμενα | `2-europeana-antikeimena.md` | ΑΝ |
 | 3. Editor σεναρίων | `3-editor-senarion.md` | ΕΔ |
 | 4. Game engine | `4-game-engine.md` | ΠΑ |
